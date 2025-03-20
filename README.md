@@ -1,14 +1,11 @@
 
-# 💫 About Me:
-Skilled in Python, C, C++, Java, SQL, Git, and Prompt Engineering.
+# About Me:
 
-Founder of A-Zentrix, a startup focused on AI-driven solutions.
-
-Conducted sessions on Prompt Engineering, NumPy, Pandas, Matplotlib, and Seaborn.
-
-Strong skills in technical presentations, research, and problem-solving.
-
-Passionate about AI innovation, open-source contributions, and startup growth.
+🚀 Skilled in Python, C, C++, Java, SQL, Git, and Prompt Engineering.
+🔥 Founder of A-Zentrix, a startup focused on AI-driven solutions.
+📢 Conducted sessions on Prompt Engineering, NumPy, Pandas, Matplotlib, and Seaborn.
+🎯 Strong skills in technical presentations, research, and problem-solving.
+💡 Passionate about AI innovation, open-source contributions, and startup growth.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/asmohamed.arfeen_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arfeen2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmohamed.arfeen@gmail.com) 
